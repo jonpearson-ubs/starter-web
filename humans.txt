@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Jon Pearson	jon.pearson@ubs.com	petrolhead.jon
+	
 # THANKS
 
     <name>

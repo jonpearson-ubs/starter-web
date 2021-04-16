@@ -13,3 +13,6 @@ Adding some text here for purpose
 ## Deployment
 
 ## How To Contribute
+
+## Copyright
+2014 Git.Training.

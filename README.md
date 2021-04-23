@@ -19,4 +19,4 @@ Adding a line for rebasing example, then more changes from myfeature branch too.
 Please fork this repository and then issue Pull Reqests for review.
 
 ## Copyright
-2014 Git.Training.
+2014 Git.Training. All rights reserved.

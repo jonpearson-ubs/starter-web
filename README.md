@@ -12,7 +12,7 @@ Adding some text here for purpose
 
 ## Deployment
 
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## How To Contribute
 
